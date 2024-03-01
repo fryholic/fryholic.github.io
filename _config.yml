@@ -77,8 +77,8 @@ theme_mode: # [light | dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/profile.png"
-#avatar: "https://github.com/fryholic/fryholic.github.io/assets/140505972/517e2d6b-89c0-43dc-9b54-a76e3d3d24fd"
+#avatar: "assets/img/profile.jpg"
+avatar: "https://github.com/fryholic/fryholic.github.io/assets/140505972/517e2d6b-89c0-43dc-9b54-a76e3d3d24fd"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
